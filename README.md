@@ -1,2 +1,2 @@
-# L-T-Hackathon
+# L&T-Hackathon
 Analytics Vidhya Projects
